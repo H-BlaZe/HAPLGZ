@@ -1,0 +1,2 @@
+# HAPLAGZ
+Find plagiarism instantly
